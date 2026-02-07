@@ -1,0 +1,28 @@
+Created by: Black_Knigh1.0 / Shidou
+
+This bot is the strong, silent backbone that keeps everything running smoothly behind the scenes!
+What it handles:
+
+Lightning-fast database operations
+All your powerful custom commands
+Smart permission management
+Member tracking & organization
+Smooth verification flows
+Rock-solid data saving & persistence
+
+
+Why this setup:
+
+Zero logging → Super privacy-focused. Nothing gets recorded, so there’s genuinely nothing for anyone to find. Server stays clean and discreet.
+Smart modular design → This is just 1 of 3 specialized bots working together. Splitting the work keeps each bot lightweight, super efficient, and way easier to maintain & update. No single point of failure, no massive File.
+Pure system focus → No member Commands. This bot stays laser-focused on doing the heavy lifting so your other bots can shine with fun & interactive features.
+
+READ ME AFTER
+IF I transfer files to you to host bot or fix. You must be trusted by me ofc, You WILL NOT SHARE CODE, If I found out that you broken the code or made it worse maybe share the code with someone there will be 4 things I might do.
+1) Ban you from all servers
+2) Block you and never unblock you
+3) Get the authoritys involded and they can wipe your pc or device
+4) Take it apon myself to wipe your files by giving you viruses that will give me access, or that will wipe your pc and delete system32 
+
+
+I am not a CyberCrimial but If I send you something this important that matters alot to me I will be shaming you and have everyone dislike you 
